@@ -1,0 +1,19 @@
+Place custom art in this folder with the names below.
+
+Required placeholder targets:
+- dog_idle.png
+- bee.png
+- beehive.png
+- water.png
+- platform.png
+- panel_win.png
+- panel_lose.png
+
+Recommended art specs:
+- PNG with transparent background
+- 256px to 1024px on the longest side
+- Dog, bee, hive: simple 2D side-view or front-view cartoon art
+- Water and platform: tileable textures or clean rectangular sprites
+- Win/lose panels: simple 9-slice friendly panel graphics
+
+The current prototype uses built-in Unity shapes, so replacing these files is optional for gameplay.
